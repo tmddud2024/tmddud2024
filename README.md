@@ -9,7 +9,7 @@
 
 - 이름: 유승영
 - 이메일: seeood2424@naver.com
-- 블로그: ![image](https://m.blog.naver.com/mind24luciano)
+- 블로그: https://m.blog.naver.com/mind24luciano
 
 ## Skill.
 - data : SQL
