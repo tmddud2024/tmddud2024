@@ -4,7 +4,7 @@
 -  🔭 빠르게 변화하는 프론트엔드 기술을 배워나가는 것을 좋아합니다.
 -  👯 배움을 학습하며 함께 성장하는 것을 좋아합니다.
 -  👀 
-
+***
 ## 🐲 Contact & Channel
 - 이메일: seeood2424@naver.com
 - 블로그: https://m.blog.naver.com/mind24luciano
@@ -20,11 +20,20 @@
 - 피그마
 
 
-<button id="toggleButton">토글</button>
-<div id="content" style="display: none;">
-    이것은 숨겨진 컨텐츠입니다.
-</div>
 
+<details>
+  <summary>토글</summary>
+  내용을 여기에 작성합ㄴ
+ ㄴㄴ
+ ㄴ
+ ㄴ
+ ㄴ
+ ㄴ
+ ㄴ
+</details>
+
+
+- 
 ***
 ## 📅 미니프로젝트기간 ===
 - 미니프로젝트 기간:  2024년 01월31(수) ~ 2024년 02월 02일 (금)
