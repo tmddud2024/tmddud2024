@@ -23,25 +23,19 @@
 
 <details>
   <summary>토글</summary>
-  내용을 여기에 작성합ㄴ
- ㄴㄴ
- ㄴ
- ㄴ
- ㄴ
- ㄴ
+ ## 📅 미니프로젝트기간 ===
+- 미니프로젝트 기간:  2024년 01월31(수) ~ 2024년 02월 02일 (금)
+
  ㄴ
 </details>
 
 
 - 
 ***
-## 📅 미니프로젝트기간 ===
-- 미니프로젝트 기간:  2024년 01월31(수) ~ 2024년 02월 02일 (금)
-
-  ## 🌟서비스 소개 
 
 
-
+<details>
+  <summary>토글</summary>
 
 
 ## 📅 핵심프로젝트기간 ===
@@ -75,3 +69,10 @@
 
 ![image](https://github.com/2023-SMHRD-KDT-AI-16/Shoekream/assets/157657703/5ca02c88-c98d-41e7-b330-d8df5683a437)
 ![image](https://github.com/2023-SMHRD-KDT-AI-16/Shoekream/assets/157657703/0ecb92b7-cb5b-4277-ae55-5d2920066c92)
+
+
+  
+</details>
+
+
+
