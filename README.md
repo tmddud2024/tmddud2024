@@ -18,7 +18,13 @@
 - Front End:  Html , CSS,
 ## UI/UX
 - 피그마
-- 
+
+
+<button id="toggleButton">토글</button>
+<div id="content" style="display: none;">
+    이것은 숨겨진 컨텐츠입니다.
+</div>
+
 ***
 ## 📅 미니프로젝트기간 ===
 - 미니프로젝트 기간:  2024년 01월31(수) ~ 2024년 02월 02일 (금)
