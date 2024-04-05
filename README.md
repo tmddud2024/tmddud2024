@@ -1,12 +1,3 @@
-## 프로필
-
-![image]()
-
-- 이름: 유승영
-- 이메일: seeood2424@naver.com
-- 블로그: [https://m.blog.naver.com/mind24luciano](블로그_링크)
-
-
 
 ## 머물러 있지 않고 성장하는 개발자가 되고싶은  유승영입니다.
  
@@ -16,8 +7,14 @@
 -  👯 배움을 학습하며 함께 성장하는 것을 좋아합니다.
 -  👀 소심하지만  꾸준하게  변화에 도전하고 있는 마음으로 살아가고있습니다.
 
+- 이름: 유승영
+- 이메일: seeood2424@naver.com
+- 블로그: ![image](https://m.blog.naver.com/mind24luciano)
 
-#### Skill.
+## Skill.
 - data : SQL
 - Front End:  Html , CSS,
 - back-end : Java, Python
+
+## UI/UX
+- 피그마
