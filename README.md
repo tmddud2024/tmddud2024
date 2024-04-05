@@ -12,9 +12,12 @@
 - 블로그: https://m.blog.naver.com/mind24luciano
 
 ## 🙂 Skill.
-- data : SQL
-- Front End:  Html , CSS,
-- back-end : Java, Python
+## data
+- SQL
 
+## back-end 
+- back-end : Java, Python
+## Front
+- Front End:  Html , CSS,
 ## UI/UX
 - 피그마
