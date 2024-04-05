@@ -1,10 +1,3 @@
-### 안녕하세요 👋
-
-
-
-**tmddud2024/tmddud2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## 안녕하세요 머물러 있지 않고 성장하는 개발자가 되고싶은  유승영입니다.
 
 
