@@ -1,4 +1,4 @@
-![image](![image](https://github.com/tmddud2024/tmddud2024/assets/157584487/52cc48ec-83e7-425f-b6d6-04bc57666a2f))
+
 
 ## 머물러 있지 않고 성장하는 개발자가 되고싶은  유승영입니다.
  
