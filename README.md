@@ -22,7 +22,7 @@
 
 
 <details>
-  <summary>토글</summary>
+  <summary> 미니프로젝트</summary>
  ## 📅 미니프로젝트기간 ===
 - 미니프로젝트 기간:  2024년 01월31(수) ~ 2024년 02월 02일 (금)
 
@@ -35,7 +35,7 @@
 
 
 <details>
-  <summary>토글</summary>
+  <summary>핵심 프로젝</summary>
 
 
 ## 📅 핵심프로젝트기간 ===
