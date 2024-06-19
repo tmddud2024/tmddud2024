@@ -45,13 +45,21 @@
     **서비스명**  MZ 세대를 위한 신발 SNS
     <br>
     **서비스_설명** 실시간 채팅으로 빠른 정보공유와 직관적인 UI 검색기능 활성화 SNS
-    **개발 언어:**
-    ![image](https://github.com/tmddud2024/tmddud2024/assets/157584487/5c31fd2e-01ef-4f61-a4e3-06db83458c8b)
+ 
 
     
   - **팀명**슈크림팀
-  - **팀원**
   - **역할**
+
+
+
+
+   **개발 언어:**
+    ![image](https://github.com/tmddud2024/tmddud2024/assets/157584487/5c31fd2e-01ef-4f61-a4e3-06db83458c8b)
+- **팀원**
+   ![image](https://github.com/tmddud2024/tmddud2024/assets/157584487/fbe8cca5-fde9-45a1-8e2e-988db967c815)
+
+
 
 
   - **프로젝트명**
