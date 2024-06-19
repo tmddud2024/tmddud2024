@@ -63,39 +63,3 @@
     <span class="animated-icon">📚</span> 배움을 학습하며 함께 성장하는 것을 좋아합니다.
   </p>
 </div>
-
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-30px);
-    }
-    60% {
-      transform: translateY(-15px);
-    }
-  }
-
-  .animated-icon {
-    display: inline-block;
-    animation: bounce 2s infinite;
-  }
-
-  details summary {
-    cursor: pointer;
-  }
-
-  details summary:hover {
-    color: #0366d6;
-  }
-
-  a {
-    color: #0366d6;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
