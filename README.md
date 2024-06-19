@@ -75,7 +75,7 @@
   --
 ![image](https://github.com/tmddud2024/tmddud2024/assets/157584487/a802c7d7-8efc-4ac9-89fa-4da11d5599de)
   --
-
+</details>
 
 
 <details>
@@ -125,16 +125,10 @@
   --
 ![image](https://github.com/tmddud2024/tmddud2024/assets/157584487/85484b04-6947-47b0-a9f6-d2426cb44e84)
 
-  --
-
-
-
-</details>
-
-
+--
 
 ---
-
+</details>
 <div align="center">
   <h2>성장하는 개발자가 되고싶은 유승영입니다.</h2>
   <p>
