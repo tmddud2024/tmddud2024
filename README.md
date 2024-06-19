@@ -74,12 +74,6 @@
 
 
 
-
-
-  ### 역할
-  ![image](https://github.com/2023-SMHRD-KDT-AI-16/Shoekream/assets/157657703/1315c8aa-b820-4135-9aa4-a79c09e4852d)
-
-
 <details>
   <summary>[실전프로젝트] 😎 딥러닝 모델을 통한 태양광 발전량 예측 솔루션</summary>
 
