@@ -118,6 +118,8 @@
 
 --
 
+- **팀 깃허브주소:**
+https://github.com/2023-SMHRD-KDT-AI-16/ASSEMBLE
 ---
 </details>
 <div align="center">
